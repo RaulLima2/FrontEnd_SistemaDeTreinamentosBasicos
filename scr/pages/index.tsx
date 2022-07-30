@@ -8,7 +8,7 @@ function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Teste</title>
       </Head>
 
       <main >
