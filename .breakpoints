@@ -1,0 +1,28 @@
+{
+  "files": {
+    ".eslintignore": [
+      {
+        "id": "b78837b2-6329-4033-8dc5-171b5c7aa7e9",
+        "line": 1,
+        "version": 5,
+        "index": 0
+      }
+    ],
+    "next-env.d.ts": [
+      {
+        "id": "08a5899c-3a9a-40e4-9051-a4683ee9f2df",
+        "line": 6,
+        "version": 7,
+        "index": 201
+      }
+    ],
+    "pages/index.tsx": [
+      {
+        "id": "043a073b-2c8c-4e73-99ff-02ee1179b22f",
+        "line": 6,
+        "version": 50,
+        "index": 131
+      }
+    ]
+  }
+}
